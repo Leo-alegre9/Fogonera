@@ -1,0 +1,73 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@theme {
+    --font-display: 'Fraunces', ui-serif, Georgia, serif;
+    --font-sans: 'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+    --font-mono: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+    --color-paper: #efe9e1;
+    --color-paper-raised: #ffffff;
+    --color-ink: #241d18;
+    --color-ink-soft: #5c5044;
+    --color-ink-faint: #948879;
+    --color-rule: #ddd2c2;
+    --color-rule-strong: #c2b39d;
+
+    --color-accent: #a8481d;
+    --color-accent-strong: #7d3113;
+    --color-accent-soft: #f4e1d2;
+
+    --color-alta: #b3261e;
+    --color-alta-soft: #f6e3e1;
+    --color-media: #96720a;
+    --color-media-soft: #f1e6d1;
+    --color-baja: #3f6b4f;
+    --color-baja-soft: #e1ebe4;
+}
+
+@layer base {
+    :root {
+        color-scheme: light;
+    }
+
+    html {
+        background-color: var(--color-paper);
+    }
+
+    body {
+        background-color: var(--color-paper);
+        color: var(--color-ink);
+        font-family: var(--font-sans);
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            color-scheme: dark;
+            --color-paper: #181310;
+            --color-paper-raised: #241d18;
+            --color-ink: #ece5db;
+            --color-ink-soft: #b7ab9c;
+            --color-ink-faint: #7d7263;
+            --color-rule: #3a2f26;
+            --color-rule-strong: #4f4235;
+            --color-accent: #d97a3d;
+            --color-accent-strong: #f0985c;
+            --color-accent-soft: #3a2416;
+            --color-alta: #e2897f;
+            --color-alta-soft: #3a201d;
+            --color-media: #d1a655;
+            --color-media-soft: #362b16;
+            --color-baja: #8fc0a2;
+            --color-baja-soft: #1e2f24;
+        }
+    }
+}
+
+@layer utilities {
+    .font-feature-tabular {
+        font-variant-numeric: tabular-nums;
+    }
+}

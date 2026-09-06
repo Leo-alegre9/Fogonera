@@ -1,0 +1,571 @@
+{
+    "code": "GN",
+    "name": "Relevamiento — Gallo Negro",
+    "slug": "gallo-negro",
+    "description": "Preguntas para cerrar el relevamiento del sitio institucional, el catálogo de productos y el panel administrativo de Gallo Negro. Cada pregunta corresponde 1 a 1 con el PEN-NNN de Docs/01_Relevamiento/cuestionario-cliente.md.",
+    "respondent_role_label": "Tu rol en Gallo Negro (dueño, encargado, etc.)",
+    "questions": [
+        {
+            "code": "Q-GN-001",
+            "section": "1. Negocio y objetivos",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "¿Cuál es el nombre comercial definitivo con el que debe aparecer el sitio? Si corresponde mostrar también la razón social, indicala.",
+            "options": []
+        },
+        {
+            "code": "Q-GN-002",
+            "section": "1. Negocio y objetivos",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "¿Cuál es la actividad principal de Gallo Negro y qué productos comercializa?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-003",
+            "section": "1. Negocio y objetivos",
+            "criticality": "MEDIA",
+            "type": "single",
+            "text": "¿Quién es el público objetivo del negocio?",
+            "options": ["Particulares (consumidor final)", "Empresas / comercios (B2B)", "Ambos", "Otro"]
+        },
+        {
+            "code": "Q-GN-004",
+            "section": "1. Negocio y objetivos",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "¿Dónde está ubicado el negocio y en qué zonas trabaja o entrega?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-005",
+            "section": "1. Negocio y objetivos",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "¿Cuáles son los datos de contacto actuales: teléfono, WhatsApp, correo electrónico y horarios de atención?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-006",
+            "section": "1. Negocio y objetivos",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Qué redes sociales tiene Gallo Negro hoy y cuáles quiere mostrar en el sitio?",
+            "options": ["Facebook", "Instagram", "WhatsApp Business", "LinkedIn", "TikTok", "YouTube", "Ninguna", "Otro"]
+        },
+        {
+            "code": "Q-GN-007",
+            "section": "1. Negocio y objetivos",
+            "criticality": "BAJA",
+            "type": "open",
+            "text": "Contanos brevemente la historia de Gallo Negro, su misión, sus valores y qué lo diferencia de la competencia.",
+            "options": []
+        },
+        {
+            "code": "Q-GN-008",
+            "section": "1. Negocio y objetivos",
+            "criticality": "BAJA",
+            "type": "open",
+            "text": "¿Qué es lo que la marca quiere transmitir a quien visite el sitio?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-009",
+            "section": "1. Negocio y objetivos",
+            "criticality": "BAJA",
+            "type": "open",
+            "text": "¿Quiénes considera que son sus principales competidores?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-010",
+            "section": "1. Negocio y objetivos",
+            "criticality": "ALTA",
+            "type": "multiple",
+            "text": "¿Cuál es el principal objetivo de la página?",
+            "options": [
+                "Presentar la empresa",
+                "Mostrar el catálogo de productos",
+                "Generar consultas por WhatsApp",
+                "Generar contactos por formulario",
+                "Atraer clientes desde Google (SEO)",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-011",
+            "section": "1. Negocio y objetivos",
+            "criticality": "BAJA",
+            "type": "open",
+            "text": "¿Hay sitios web (de cualquier rubro) que le gusten como referencia de estilo o funcionamiento?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-012",
+            "section": "2. Identidad visual y contenido",
+            "criticality": "ALTA",
+            "type": "single",
+            "text": "¿Existe un logotipo definitivo? ¿En qué formatos y versiones está disponible?",
+            "options": [
+                "Sí, tenemos logo definitivo en varios formatos y versiones",
+                "Sí, pero solo en un formato o de baja calidad",
+                "No, todavía hay que diseñarlo",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-013",
+            "section": "2. Identidad visual y contenido",
+            "criticality": "ALTA",
+            "type": "single",
+            "text": "¿Tiene colores corporativos y tipografías definidas, o un manual de marca?",
+            "options": [
+                "Sí, manual de marca completo (colores, tipografías, usos)",
+                "Colores y tipografías definidos, sin manual formal",
+                "Nada definido todavía",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-014",
+            "section": "2. Identidad visual y contenido",
+            "criticality": "MEDIA",
+            "type": "single",
+            "text": "¿Cuenta con fotografías institucionales (local, equipo, productos) de calidad utilizable en el sitio?",
+            "options": [
+                "Sí, contamos con fotos profesionales de buena calidad",
+                "Tenemos fotos básicas (celular) que pueden servir de referencia",
+                "No tenemos fotos, hay que producirlas",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-015",
+            "section": "2. Identidad visual y contenido",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Qué percepción debería generar la página?",
+            "options": [
+                "Premium",
+                "Moderna",
+                "Tecnológica",
+                "Industrial",
+                "Elegante",
+                "Minimalista",
+                "Clásica",
+                "Cercana / familiar",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-016",
+            "section": "2. Identidad visual y contenido",
+            "criticality": "BAJA",
+            "type": "open",
+            "text": "¿Podría compartirnos 2 o 3 sitios web (de cualquier rubro) cuyo estilo visual le guste, para usarlos como referencia?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-017",
+            "section": "2. Identidad visual y contenido",
+            "criticality": "MEDIA",
+            "type": "open",
+            "text": "¿Qué material institucional ya está listo para entregar (logo, fotos, textos) y qué falta redactar o fotografiar?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-018",
+            "section": "3. Sitio institucional",
+            "criticality": "ALTA",
+            "type": "multiple",
+            "text": "En la página de inicio, ¿qué es imprescindible que aparezca?",
+            "options": [
+                "Imagen o video principal",
+                "Eslogan",
+                "Presentación breve de la empresa",
+                "Categorías principales",
+                "Productos destacados",
+                "Novedades",
+                "Marcas",
+                "Beneficios o diferenciales",
+                "Botón de WhatsApp",
+                "Ubicación",
+                "Redes sociales",
+                "Datos de contacto",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-019",
+            "section": "3. Sitio institucional",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Necesita una sección \"Nosotros / Quiénes somos\"? Si es así, ¿qué debería incluir?",
+            "options": [
+                "Historia",
+                "Año de fundación",
+                "Misión",
+                "Visión",
+                "Valores",
+                "Trayectoria",
+                "Equipo",
+                "Fotos de las instalaciones",
+                "Diferenciales frente a la competencia",
+                "No hace falta esta sección",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-020",
+            "section": "3. Sitio institucional",
+            "criticality": "BAJA",
+            "type": "multiple",
+            "text": "¿El sitio debe mostrar información de trayectoria (años en el mercado, cantidad de clientes, certificaciones, etc.)?",
+            "options": [
+                "Años en el mercado",
+                "Cantidad de clientes atendidos",
+                "Certificaciones",
+                "Marcas o proveedores representados",
+                "Ninguna de momento",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-021",
+            "section": "3. Sitio institucional",
+            "criticality": "MEDIA",
+            "type": "open",
+            "text": "¿Hay contenido institucional que NO quiere mostrar públicamente?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-022",
+            "section": "4. Catálogo de productos",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "¿Los productos se organizan en categorías? ¿Cuáles son (listado inicial)? ¿Hay subcategorías?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-023",
+            "section": "4. Catálogo de productos",
+            "criticality": "ALTA",
+            "type": "single",
+            "text": "¿Un mismo producto puede pertenecer a más de una categoría?",
+            "options": ["Sí, un producto puede pertenecer a más de una categoría", "No, cada producto va en una única categoría", "Otro"]
+        },
+        {
+            "code": "Q-GN-024",
+            "section": "4. Catálogo de productos",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "¿Maneja distintas marcas de productos? ¿Cuáles? ¿Deberían poder usarse como filtro o tener una sección propia?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-025",
+            "section": "4. Catálogo de productos",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Necesita buscador de productos y/o filtros?",
+            "options": [
+                "Buscador por texto",
+                "Filtro por categoría",
+                "Filtro por marca",
+                "Filtro por precio",
+                "Filtro por disponibilidad o stock",
+                "No hace falta, el catálogo es chico",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-026",
+            "section": "4. Catálogo de productos",
+            "criticality": "ALTA",
+            "type": "single",
+            "text": "¿Los precios de los productos deben mostrarse públicamente, mostrarse como \"Consultar precio\", o no mostrarse en absoluto?",
+            "options": [
+                "Mostrar el precio de cada producto",
+                "Mostrar \"Consultar precio\" sin indicar el monto",
+                "No mostrar precios en el sitio",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-027",
+            "section": "4. Catálogo de productos",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Habrá promociones o precios de oferta (con precio anterior tachado)? ¿Se ofrece financiación o pago en cuotas que deba mostrarse?",
+            "options": [
+                "Habrá promociones con precio anterior tachado",
+                "Se ofrece financiación o pago en cuotas que debe mostrarse",
+                "Ninguna de las dos por ahora",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-028",
+            "section": "4. Catálogo de productos",
+            "criticality": "ALTA",
+            "type": "single",
+            "text": "¿Necesita gestionar stock real (cantidad exacta), o alcanza con un estado simple (Disponible / Consultar disponibilidad / Sin stock), o no hace falta mostrar disponibilidad?",
+            "options": [
+                "Cantidad exacta de stock (inventario)",
+                "Estado simple: Disponible / Consultar disponibilidad / Sin stock",
+                "No hace falta mostrar disponibilidad",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-029",
+            "section": "4. Catálogo de productos",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Habrá productos destacados y/o novedades en el catálogo? ¿Quién decide cuáles son?",
+            "options": ["Habrá productos destacados", "Habrá una sección de novedades", "Ninguna de las dos por ahora", "Otro"]
+        },
+        {
+            "code": "Q-GN-030",
+            "section": "4. Catálogo de productos",
+            "criticality": "ALTA",
+            "type": "single",
+            "text": "Pregunta clave de alcance: ¿el sitio debe solamente mostrar productos y permitir consultar (por ejemplo, por WhatsApp), o los clientes necesitan poder comprar y pagar directamente desde la web?",
+            "options": [
+                "Solo mostrar productos y permitir consultar (por ejemplo, por WhatsApp), sin compra online",
+                "Los clientes necesitan poder comprar y pagar directamente desde la web",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-031",
+            "section": "4. Catálogo de productos",
+            "criticality": "MEDIA",
+            "type": "single",
+            "text": "¿Cuántos productos tiene aproximadamente el catálogo inicial a publicar?",
+            "options": ["Menos de 20 productos", "Entre 20 y 100 productos", "Entre 100 y 500 productos", "Más de 500 productos", "Otro"]
+        },
+        {
+            "code": "Q-GN-032",
+            "section": "5. Ficha de producto",
+            "criticality": "ALTA",
+            "type": "multiple",
+            "text": "Para cada producto, ¿qué información necesita mostrar?",
+            "options": [
+                "Nombre",
+                "Código o SKU",
+                "Descripción breve",
+                "Descripción completa",
+                "Características",
+                "Especificaciones técnicas",
+                "Modelo",
+                "Medidas",
+                "Colores o variantes",
+                "Manuales o archivos adjuntos",
+                "Productos relacionados",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-033",
+            "section": "5. Ficha de producto",
+            "criticality": "MEDIA",
+            "type": "single",
+            "text": "¿Cada producto tendrá una imagen principal y una galería de varias fotos? ¿Cuántas fotos como máximo por producto, aproximadamente?",
+            "options": [
+                "Solo una imagen principal, sin galería",
+                "Imagen principal + galería de hasta 5 fotos",
+                "Imagen principal + galería de más de 5 fotos",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-034",
+            "section": "5. Ficha de producto",
+            "criticality": "ALTA",
+            "type": "multiple",
+            "text": "¿Qué debería pasar cuando un visitante quiere consultar por un producto puntual?",
+            "options": ["WhatsApp con mensaje precargado", "Formulario de contacto", "Mostrar el teléfono para llamar", "Otro"]
+        },
+        {
+            "code": "Q-GN-035",
+            "section": "5. Ficha de producto",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "Si se usa WhatsApp para consultas: ¿cuál es el número a utilizar y hay un texto/mensaje preferido para precargar?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-036",
+            "section": "5. Ficha de producto",
+            "criticality": "BAJA",
+            "type": "single",
+            "text": "¿Los productos relacionados o similares deberían sugerirse automáticamente en la ficha del producto?",
+            "options": ["Sí, sugerir productos relacionados automáticamente", "No hace falta", "Otro"]
+        },
+        {
+            "code": "Q-GN-037",
+            "section": "6. Panel administrativo",
+            "criticality": "ALTA",
+            "type": "open",
+            "text": "¿Cuántas personas van a usar el panel administrativo? ¿Todas necesitan los mismos permisos o hacen falta distintos roles?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-038",
+            "section": "6. Panel administrativo",
+            "criticality": "ALTA",
+            "type": "multiple",
+            "text": "En el panel, ¿quién administra el catálogo debe poder hacer lo siguiente? (confirmar si falta o sobra algo)",
+            "options": [
+                "Crear productos",
+                "Editar productos",
+                "Publicar o despublicar productos",
+                "Eliminar productos",
+                "Cargar imágenes",
+                "Marcar productos como destacados",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-039",
+            "section": "6. Panel administrativo",
+            "criticality": "MEDIA",
+            "type": "single",
+            "text": "¿Las categorías y las marcas deben poder crearse/editarse/eliminarse/ordenarse desde el panel, o se definen una sola vez y luego se mantienen por soporte técnico?",
+            "options": [
+                "Sí, crear/editar/eliminar/ordenar categorías y marcas desde el panel",
+                "No, se definen una sola vez y las mantiene soporte técnico",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-040",
+            "section": "6. Panel administrativo",
+            "criticality": "MEDIA",
+            "type": "single",
+            "text": "¿El contenido institucional (textos de Inicio, Nosotros, teléfonos, WhatsApp, redes, horarios, dirección, banners) debe poder editarse desde el panel, o los cambios institucionales se harán por mantenimiento técnico?",
+            "options": [
+                "Sí, todo el contenido institucional debe poder editarse desde el panel",
+                "Solo algunos datos puntuales (teléfono, WhatsApp, horarios)",
+                "No, los cambios institucionales los hace el equipo técnico",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-041",
+            "section": "6. Panel administrativo",
+            "criticality": "BAJA",
+            "type": "single",
+            "text": "¿Es necesario registrar quién hizo cada modificación (auditoría de cambios), o no hace falta para este proyecto?",
+            "options": ["Sí, es necesario registrar quién hizo cada modificación", "No hace falta para este proyecto", "Otro"]
+        },
+        {
+            "code": "Q-GN-042",
+            "section": "7. Contacto y WhatsApp",
+            "criticality": "ALTA",
+            "type": "multiple",
+            "text": "¿Qué vías de contacto debe ofrecer el sitio?",
+            "options": ["WhatsApp", "Formulario de contacto", "Teléfono", "Correo electrónico", "Dirección con mapa", "Otro"]
+        },
+        {
+            "code": "Q-GN-043",
+            "section": "7. Contacto y WhatsApp",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "Si hay formulario de contacto: ¿qué datos debe pedir y cómo deben recibirse las consultas en Gallo Negro?",
+            "options": [
+                "Nombre",
+                "Teléfono",
+                "Email",
+                "Consulta o mensaje",
+                "Recibir las consultas por correo electrónico",
+                "Guardar las consultas en el panel administrativo",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-044",
+            "section": "7. Contacto y WhatsApp",
+            "criticality": "ALTA",
+            "type": "single",
+            "text": "¿Gallo Negro atiende al público en un local físico? Si es así, ¿cuál es la dirección exacta y conviene mostrar un mapa (Google Maps)?",
+            "options": [
+                "Sí, atendemos al público en un local físico y se puede mostrar la dirección con mapa",
+                "Atendemos en un local pero preferimos no mostrar la dirección exacta",
+                "No atendemos al público en un local físico",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-045",
+            "section": "7. Contacto y WhatsApp",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Los enlaces a WhatsApp deben aparecer en varios lugares del sitio o solo en algunos puntos específicos?",
+            "options": ["Página de inicio", "Ficha de producto", "Página de contacto", "En todas las páginas (botón flotante)", "Otro"]
+        },
+        {
+            "code": "Q-GN-046",
+            "section": "7. Contacto y WhatsApp",
+            "criticality": "MEDIA",
+            "type": "single",
+            "text": "Sobre redes sociales: ¿alcanza con enlaces a los perfiles, o se necesita mostrar contenido dinámico (por ejemplo, últimas publicaciones de Instagram)?",
+            "options": [
+                "Alcanza con enlaces a los perfiles de redes sociales",
+                "Se necesita mostrar contenido dinámico (por ejemplo, últimas publicaciones de Instagram)",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-047",
+            "section": "8. SEO, analítica y requisitos no funcionales",
+            "criticality": "MEDIA",
+            "type": "open",
+            "text": "¿En qué ciudades o zonas quiere posicionarse en las búsquedas de Google?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-048",
+            "section": "8. SEO, analítica y requisitos no funcionales",
+            "criticality": "BAJA",
+            "type": "open",
+            "text": "¿Con qué palabras o términos cree que sus clientes lo buscarían en Google?",
+            "options": []
+        },
+        {
+            "code": "Q-GN-049",
+            "section": "8. SEO, analítica y requisitos no funcionales",
+            "criticality": "BAJA",
+            "type": "single",
+            "text": "¿Quiere poder ver estadísticas del sitio (visitantes, páginas más vistas, productos más consultados)?",
+            "options": [
+                "Sí, quiero ver estadísticas de visitantes y productos más consultados",
+                "No es necesario por ahora",
+                "Otro"
+            ]
+        },
+        {
+            "code": "Q-GN-050",
+            "section": "8. SEO, analítica y requisitos no funcionales",
+            "criticality": "BAJA",
+            "type": "single",
+            "text": "¿Sabe aproximadamente desde qué dispositivo llega la mayoría de sus clientes hoy? Esto ayuda a priorizar el diseño mobile.",
+            "options": ["La mayoría llega desde el celular", "La mayoría llega desde computadora", "Mitad y mitad, no sabría decir", "Otro"]
+        },
+        {
+            "code": "Q-GN-051",
+            "section": "8. SEO, analítica y requisitos no funcionales",
+            "criticality": "MEDIA",
+            "type": "multiple",
+            "text": "¿Hay algún requisito de accesibilidad, idioma adicional (además de español) o alguna restricción técnica que debamos conocer?",
+            "options": [
+                "Necesitamos el sitio en otro idioma además de español",
+                "Hay requisitos de accesibilidad que debemos cumplir",
+                "Hay restricciones de hosting o servidor a considerar",
+                "Ninguna restricción adicional",
+                "Otro"
+            ]
+        }
+    ]
+}
